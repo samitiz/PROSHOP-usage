@@ -13,4 +13,4 @@ Admin can manage the :
 . Products on the website(CRUD Operations)
 . Payment System
 
-NOTE: email [@usamamalook](usamasam687@gmail.com) for ADMIN Credentials.
+NOTE: email [@usamamalook](mailto:usamasam687@gmail.com) for ADMIN Credentials.
